@@ -39,19 +39,17 @@ Real-time dashboard updates
 > 📌 Add your screenshots inside a `/screenshots` folder in your repo  
 
 ### 🏠 Dashboard  
-<img width="1906" height="1027" alt="Screenshot 2026-04-13 170420" src="https://github.com/user-attachments/assets/ac73f2cd-f3d8-46af-a3ca-843bdbd9d116" />
-
+<img width="1917" height="1007" alt="Screenshot 2026-07-28 121304" src="https://github.com/user-attachments/assets/9efa74d5-ff95-4ea3-ad86-641eef4c3755" />
 ### 👨‍⚕️ Doctor Management  
-<img width="1917" height="1029" alt="Screenshot 2026-04-15 071700" src="https://github.com/user-attachments/assets/926bd937-7be2-405b-ae74-64772afb6127" />
+<img width="1917" height="1006" alt="Screenshot 2026-07-28 121321" src="https://github.com/user-attachments/assets/d8a4f6af-5714-408f-b4ae-100d143b4279" />
 ### Nurse Management
-<img width="1916" height="1028" alt="Screenshot 2026-04-15 071718" src="https://github.com/user-attachments/assets/0ccaa4cc-9005-4567-ad7a-475b129adbad" />
+<img width="1917" height="1031" alt="Screenshot 2026-07-28 121339" src="https://github.com/user-attachments/assets/d46e55a1-ad61-4111-9fcc-9d8db402fb01" />
 ### Patient Management
-<img width="1919" height="1016" alt="Screenshot 2026-04-15 071743" src="https://github.com/user-attachments/assets/56dc91c9-cf11-4812-8351-1c5f40817d82" />
-
+<img width="1917" height="1007" alt="Screenshot 2026-07-28 121401" src="https://github.com/user-attachments/assets/aa4977a7-31f8-4a02-8f98-a6981bd7978a" />
 ### 🏥 Ward View
-<img width="1919" height="1022" alt="Screenshot 2026-04-15 071817" src="https://github.com/user-attachments/assets/c8e899c5-d532-4ca4-b7d7-9c55af3f1a5f" />
+<img width="1916" height="1006" alt="Screenshot 2026-07-28 121500" src="https://github.com/user-attachments/assets/462e3902-82b1-427c-82c4-582c230aee6e" />
 ### 📅 Appointment System  
-<img width="1919" height="1020" alt="Screenshot 2026-04-15 071800" src="https://github.com/user-attachments/assets/966f22b7-3d71-4809-bb9c-592e363b9dba" />
+<img width="1916" height="1022" alt="Screenshot 2026-07-28 121414" src="https://github.com/user-attachments/assets/cf87dd4a-aa99-4bd0-a800-5229b00a15fc" />
 
 
 ---
